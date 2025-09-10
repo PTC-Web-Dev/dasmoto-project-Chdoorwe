@@ -1,1 +1,45 @@
 
+#H1-Main {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-image: url("../images/pattern.webp");
+}
+
+#Brushes {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+
+    background-color: mediumspringgreen;
+}
+
+#Frames{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+
+    background-color:lightcoral;
+}
+
+#Paint{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+
+    background-color: skyblue;
+}
+
+#Hacksaw-Brushes{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
